@@ -8,6 +8,9 @@
   > This doesn't do a whole lot, it just provides some pretty syntax coloring. It can definitely help with seeing clarity in the syntax.
 
 4. Name your scheme program files with the `.scm` extension
+
 5. To enter into REPL run `scheme` or `mit-scheme`
+
 6. To exit you can either use `(quit)` or `(exit)`
+
 7. Here's hello world in Scheme: `(display "Hello, world")`
