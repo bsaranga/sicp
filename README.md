@@ -14,3 +14,5 @@
 6. To exit you can either use `(quit)` or `(exit)`
 
 7. Here's hello world in Scheme: `(display "Hello, world")`
+
+8. To run it, enter the REPL and type `(load "filename.scm")`
